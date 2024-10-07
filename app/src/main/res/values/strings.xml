@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Busca Imágenes</string>
+    <string name="enter_name">Ingrese su nombre</string>
+    <string name="start_game">Comenzar juego</string>
+    <string name="invalid_name">Nombre inválido. Debe tener máximo 10 caracteres y no comenzar con un número.</string>
+    <string name="player_name">Jugador: %s</string>
+    <string name="score">Puntos: %d</string>
+    <string name="time_remaining">Tiempo restante: %02d:%02d</string>
+    <string name="game_over">Juego terminado</string>
+    <string name="two_rounds">2 rondas</string>
+    <string name="three_rounds">3 rondas</string>
+    <string name="five_rounds">5 rondas</string>
+    <string name="end_game_message">Juego Terminado</string>
+    <string name="play_again">Juega de nuevo</string>
+    <string name="exit">Salir</string>
+    <string name="action_settings">Configuración</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_change_background_blue" type="id" />
+    <item name="menu_change_background_green" type="id" />
+    <item name="gameLayout" type="id" />
+</resources>

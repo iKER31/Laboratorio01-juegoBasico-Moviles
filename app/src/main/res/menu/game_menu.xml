@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_2_rounds"
+        android:title="@string/two_rounds" />
+    <item
+        android:id="@+id/menu_3_rounds"
+        android:title="@string/three_rounds" />
+    <item
+        android:id="@+id/menu_5_rounds"
+        android:title="@string/five_rounds" />
+</menu>

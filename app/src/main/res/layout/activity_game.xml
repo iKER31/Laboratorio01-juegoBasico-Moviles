@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/gameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/playerNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/scoreTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/timeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/targetImageView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp" />
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:columnCount="4">
+
+        <ImageButton android:id="@+id/imageButton1" style="@style/GameImageButton" />
+        <ImageButton android:id="@+id/imageButton2" style="@style/GameImageButton" />
+        <ImageButton android:id="@+id/imageButton3" style="@style/GameImageButton" />
+        <ImageButton android:id="@+id/imageButton4" style="@style/GameImageButton" />
+
+        <ImageButton android:id="@+id/imageButton5" style="@style/GameImageButton" />
+        <ImageButton android:id="@+id/imageButton6" style="@style/GameImageButton" />
+        <ImageButton android:id="@+id/imageButton7" style="@style/GameImageButton" />
+        <ImageButton android:id="@+id/imageButton8" style="@style/GameImageButton" />
+
+        <ImageButton android:id="@+id/imageButton9" style="@style/GameImageButton" />
+        <ImageButton android:id="@+id/imageButton10" style="@style/GameImageButton" />
+        <ImageButton android:id="@+id/imageButton11" style="@style/GameImageButton" />
+        <ImageButton android:id="@+id/imageButton12" style="@style/GameImageButton" />
+
+        <ImageButton android:id="@+id/imageButton13" style="@style/GameImageButton" />
+        <ImageButton android:id="@+id/imageButton14" style="@style/GameImageButton" />
+        <ImageButton android:id="@+id/imageButton15" style="@style/GameImageButton" />
+        <ImageButton android:id="@+id/imageButton16" style="@style/GameImageButton" />
+
+        <ImageButton android:id="@+id/imageButton17" style="@style/GameImageButton" />
+        <ImageButton android:id="@+id/imageButton18" style="@style/GameImageButton" />
+        <ImageButton android:id="@+id/imageButton19" style="@style/GameImageButton" />
+        <ImageButton android:id="@+id/imageButton20" style="@style/GameImageButton" />
+
+    </GridLayout>
+
+</LinearLayout>
